@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Lopes;I'm+31+years+old;I'm+from+Brazil;Data+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+- ⚙️ Production Engineer
+- 📖 Currently studying data sience
+- 💻 Looking for my first oportunity in the tech area
+
 <!--
 **Luan-o-l-s/Luan-o-l-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
