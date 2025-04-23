@@ -6,7 +6,7 @@
 
 - ⚙️ Production Engineer
 - 📖 Currently studying data sience
-- 💻 Looking for my first oportunity in the tech area
+- 💻 Looking for my first opportunity in the tech world
 
 <!--
 **Luan-o-l-s/Luan-o-l-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
